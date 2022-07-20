@@ -58,6 +58,7 @@ Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe 
 [![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@DGXeon/Cheems-Bot-Multi-Device-Qr-Code-Generator?output%20only=1&lite=1#index.js)
 
 ## `SUMI ALPHA`
+- [OwnerMessage](https://wa.me/+94742427578)
 
 
 
