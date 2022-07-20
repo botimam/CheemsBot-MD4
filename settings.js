@@ -62,7 +62,7 @@ global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
 global.owner = ['94767761567']
-gglobal.reactmoji = "👨‍💻" //ur owner message
+gglobal.reactmoji = "👨‍💻" //ur owner message react emoji
 global.ownertag = '94742427578' //ur tag number
 global.botname = 'SUMI ALPHA' //ur bot name
 global.linkz = "https://chat.whatsapp.com/LLbFBtwJj4rFlKm7bAbPME" //your theme url which will be displayed on whatsapp
