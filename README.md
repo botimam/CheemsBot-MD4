@@ -2,7 +2,7 @@
 
 <h1 align="center">SUMI ALPHA BOT MDꫂ<br></h1>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/108208262/180058230-f196e411-c9ff-41a0-8be2-8feb4bec0a50.jpeg" alt="animated" width="540" height="280" />
+<img src="https://user-images.githubusercontent.com/108208262/180058654-edc36087-58b6-4017-a41b-d8841ae4b128.jpeg" alt="animated" width="540" height="280" />
 </p>
 
 <p align="center">
